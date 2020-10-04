@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8002}
+  compression:    enabled: true
+    mime-types: application/json
